@@ -110,8 +110,8 @@ Implemented:
      │   └── tiko.txt
      │
      └── screenshots/
-          ├── gmail-authentication-results.png
-          └── easydmarc-email-investigation.png
+         ├── gmail-authentication-results.png
+         └── easydmarc-email-investigation.png
 
 ## Skills Demonstrated
 
