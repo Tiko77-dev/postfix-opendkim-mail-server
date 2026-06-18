@@ -1,4 +1,4 @@
-# mail Authentication Lab – Postfix, OpenDKIM and DNS Configuration
+# Email Authentication Lab – Postfix, OpenDKIM and DNS Configuration
 
 ## Overview
 
