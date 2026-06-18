@@ -128,12 +128,3 @@ Implemented:
 Successfully deployed and configured a mail server environment capable of DKIM-signing outbound email messages.
 
 The project provided practical experience with email authentication technologies, DNS configuration, Linux system administration, and secure mail infrastructure deployment.
-
-## Future Improvements
-
-- Implement SPF authentication
-- Implement DMARC policy enforcement
-- Configure MTA-STS
-- Configure TLS Reporting
-- Automate deployment using Infrastructure as Code
-- Create email authentication monitoring dashboards
