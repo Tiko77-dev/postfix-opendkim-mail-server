@@ -125,6 +125,11 @@ Implemented:
 - Technical Documentation
 - Troubleshooting and Validation
 
+## Screenshots
+<img width="1429" height="364" alt="gmail-authentication-results" src="https://github.com/user-attachments/assets/616e1164-67c1-4146-aba9-213172768705" />
+<img width="1803" height="704" alt="easydmarc-email-investigation" src="https://github.com/user-attachments/assets/8215e6a5-4821-48e6-b325-9f61468dc8b7" />
+
+
 ## Outcome
 
 Successfully deployed and configured a mail server environment capable of DKIM-signing outbound email messages.
