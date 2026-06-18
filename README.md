@@ -130,3 +130,7 @@ Implemented:
 Successfully deployed and configured a mail server environment capable of DKIM-signing outbound email messages.
 
 The project provided practical experience with email authentication technologies, DNS configuration, Linux system administration, and secure mail infrastructure deployment.
+
+## Lessons Learned
+
+During this project I learned how SMTP infrastructure works, how DKIM signing is integrated into a mail flow, how DNS records affect email authentication, and how recipient mail servers validate signed messages. I also gained practical experience troubleshooting Linux services, DNS configuration issues, and email deliverability problems.
