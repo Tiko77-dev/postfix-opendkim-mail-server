@@ -6,26 +6,26 @@ This project documents the deployment of a Linux-based mail server using Postfix
 
 ## Features
 
-- SMTP server configuration with Postfix
-- DKIM email signing with OpenDKIM
-- DNS-based email authentication
-- Linux server administration
-- Email deliverability improvements
+SMTP server configuration with Postfix
+DKIM email signing with OpenDKIM
+DNS-based email authentication
+Linux server administration
+Email deliverability improvements
 
 ## Technologies Used
 
-- Ubuntu 24.04 LTS
-- Postfix
-- OpenDKIM
-- DNS
-- SMTP
-- Kamatera VPS
+Ubuntu 24.04 LTS
+Postfix
+OpenDKIM
+DNS
+SMTP
+Kamatera VPS
 
 ## Project Structure
 
-- postfix/ - Postfix configuration files
-- opendkim/ - OpenDKIM configuration and public DKIM record
-- screenshots/ - Testing and validation screenshots
+postfix/ - Postfix configuration files
+opendkim/ - OpenDKIM configuration and public DKIM record
+screenshots/ - Testing and validation screenshots
 
 ## Outcome
 
