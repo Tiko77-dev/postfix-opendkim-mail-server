@@ -1,0 +1,3 @@
+tiko._domainkey	IN	TXT	( "v=DKIM1; h=sha256; k=rsa; "
+	  "p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjFGOrndHtx/2JE4lFe2sK73tkAeaynOROMIAwKplly82MENG/83xO2JRpJROwTUETZFwFjKR87k4ItpBdIOOa6edgL8vK/YnUdZ+77myqNLKzKq+kBQXYsGX5v4YMCnHGTQZeq5llSkbqVotWW8924oFcvMlL5pqrJOJRfHtEZVLQRmgmaDlfDqbcvocgV9LSC2JF0knikcZzG"
+	  "tXKnmXFfgRRkS/xTfYC+M2sSwU2WyiQ1aFKUWzqppEu9IE4dABdaTJonPF2n3+IKO5nVVhQgGBlP0YMbMn5FIL1Pge1XWGM0XdvitU5jmEmnlY70K1+4EphEthIL6uCIVPS/hltwIDAQAB" )  ; ----- DKIM key tiko for tigran-dmarc-int.site
