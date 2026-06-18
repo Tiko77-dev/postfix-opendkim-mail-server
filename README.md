@@ -94,22 +94,22 @@ Implemented:
 
 ## Repository Structure
 
-postfix-opendkim-mail-server/
-│
-├── README.md
-├── .gitignore
-│
-├── postfix/
-│   ├── main.cf
-│   └── master.cf
-│
-├── opendkim/
-│   ├── key.table
-│   ├── signing.table
-│   ├── trusted.hosts
-│   └── tiko.txt
-│
-└── screenshots/
+     postfix-opendkim-mail-server/
+     │
+     ├── README.md
+     ├── .gitignore
+     │
+     ├── postfix/
+     │   ├── main.cf
+     │   └── master.cf
+     │
+     ├── opendkim/
+     │   ├── key.table
+     │   ├── signing.table
+     │   ├── trusted.hosts
+     │   └── tiko.txt
+     │
+     └── screenshots/
 
 ## Skills Demonstrated
 
